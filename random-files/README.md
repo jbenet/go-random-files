@@ -1,6 +1,6 @@
-# random-files - create a random filesystem hierarchy
+# random-files - create random fs hierarchies
 
-Useful for testing filesystems.
+random-files creates random fs hierarchies. Useful for testing filesystems.
 
 ## Install
 

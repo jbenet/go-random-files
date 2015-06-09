@@ -1,4 +1,4 @@
-# go-random-files - create a random filesystem hierarchy
+# go-random-files - create random fs hierarchies
 
 Useful for testing filesystems.
 
@@ -13,7 +13,7 @@ go get -u github.com/jbenet/go-random-files/random-files
 
 ### Library godoc: https://godoc.org/github.com/jbenet/go-random-files
 
-# random-files - create a random filesystem hierarchy
+# random-files - create random fs hierarchies
 
 See more about the binary at: github.com/jbenet/go-random-files/tree/master/random-files
 
