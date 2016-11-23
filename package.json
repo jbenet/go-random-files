@@ -1,0 +1,25 @@
+{
+  "author": "jbenet",
+  "bugs": {
+    "URL": "https://github.com/jbenet/go-random-files/issues",
+    "url": "https://github.com/jbenet/go-random-files/issues"
+  },
+  "gx": {
+    "dvcsimport": "github.com/jbenet/go-random-files"
+  },
+  "gxDependencies": [
+    {
+      "author": "jbenet",
+      "hash": "QmVeTQJruz98RkXfsJPzKWJcTFzFk3S8ZnoWQdYijuha34",
+      "name": "go-random",
+      "version": "1.0.0"
+    }
+  ],
+  "gxVersion": "0.10.0",
+  "language": "go",
+  "license": "MIT",
+  "name": "go-random-files",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "1.0.0"
+}
+
